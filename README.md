@@ -16,9 +16,9 @@ Data Source: https://gis-kingcounty.opendata.arcgis.com/datasets/restaurant-insp
 ### Tile 3: Basemap with Data
 ![Tile 3](https://github.com/dhritiy/Lab4_458/blob/main/img/Tile3.PNG)
 
-##### Caption: I created this tile by layer both of the layers from Tile 1 and Tile 2 together. On QGis, I selected and loaded both my modified basemap and the Seattle restaurant data. Then I outputted both together to create this layer.
+##### Caption: I created this tile by layering both of the layers from Tile 1 and Tile 2 together. On QGis, I selected and loaded both my modified basemap and the Seattle restaurant data. Then I outputted both together to create this layer.
 
 ### Tile 4: Seattle Seahawks Themed Basemap
 ![Tile 4](https://github.com/dhritiy/Lab4_458/blob/main/img/Tile4.PNG)
 
-##### Caption: For my customized theme, I chose to make a Seattle Seahaws themed basemap because I am a big football fan. First, I looked up the hex codes for the Seahawks three colors, blue, green, and silver. Then I chose to make my base, land, and water colors blue. I chose to use the green for the roads since it is a very bright color and I thought it would be a nice contrast with the blue. Then I made all of the city labels, points of interest labels, and icons all the silver color. Some icons are also the blue and have a silver outline. 
+##### Caption: For my customized theme, I chose to make a Seattle Seahawks themed basemap because I am a big football fan. First, I looked up the hex codes for the Seahawks three colors, blue, green, and silver. Then I chose to make my base, land, and water colors blue. I chose to use the green for the roads since it is a very bright color and I thought it would be a nice contrast with the blue. Then I made all of the city labels, points of interest labels, and icons all the silver color. Some icons are also the blue and have a silver outline. 
