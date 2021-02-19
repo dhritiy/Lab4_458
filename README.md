@@ -1,6 +1,6 @@
 ### Lab 4 Geog 458, Live Web Map Link: https://dhritiy.github.io/Lab4_458/
 
-##### For my map I decided to focus on the general Seattle, Washington are. I used a minimum zoom level of 10 and a maximum zoom level of 14 while creating all of my tiles.
+##### For my map, I decided to focus on the general Seattle, Washington area. I used a minimum zoom level of 10 and a maximum zoom level of 14 while creating all of my tiles.
 ### Tile 1: Modified Basemap
 ![Tile 1](https://github.com/dhritiy/Lab4_458/blob/main/img/Tile1.PNG)
 
