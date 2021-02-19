@@ -9,7 +9,7 @@
 ### Tile 2: Thematic Map (Seattle Restaurant Satisfactory Rating)
 ![Tile 2](https://github.com/dhritiy/Lab4_458/blob/main/img/Tile2.PNG)
 
-##### Caption: For Tile 2, I sourced my data from King County's geospatial database. I was looking specifically for restaurant data and found that King County had data on the locations of restaurants and also on whether they had a generic "Satisfactory" or "Unsatisfactory" rating. From here, I downloaded the shapefile and loaded into QGis. I filtered the dataset to only include restaurants in Seattle. Then I symbolized a satisfactory restaurant with a green point and an unsatisfactory restaurant with a red point. 
+##### Caption: For Tile 2, I sourced my data from King County's geospatial database. I was looking specifically for restaurant data and found that King County had data on the locations of restaurants and also on whether they had a generic "Satisfactory" or "Unsatisfactory" rating. From here, I downloaded the shapefile and loaded into QGis. I filtered the dataset to only include restaurants in Seattle. As you can see in the image, some of the points are in Bellevue. This is because some of restaurants from the data source were mislabeled as "Seattle". Then I symbolized a satisfactory restaurant with a green point and an unsatisfactory restaurant with a red point. 
 
 Data Source: https://gis-kingcounty.opendata.arcgis.com/datasets/restaurant-inspections-restaurant-inspections-point/data?orderBy=SCORE_INSPECTION&orderByAsc=false&selectedAttribute=RESULT_INSPECTION&where=CITY%20%3D%20%27Seattle%27
 
